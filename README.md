@@ -1,6 +1,6 @@
 # Node Exam
 
-##Matricula de alumnos
+## Matricula de alumnos
 
 - Queremos crear el sistema de matriculas de un instituto, para ello tenemos presente que:
 - Existe un listado de asignaturas con las propiedades:
@@ -27,7 +27,7 @@ Existe un listado de docentes con las propiedades:
 - Las colecciones alumnos y docentes ya están creadas en la DB con datos
 - La URL para acceder al formulario de creación de matrícula es **http://localhost:3000/asignatura/new**
 
-##Chat
+## Chat
 
 - Existe un chat en el que existen una ventana de mensajes y  dos campos.
 - Campo de texto para enviar el chat
@@ -38,7 +38,7 @@ Existe un listado de docentes con las propiedades:
 2. Canal #. Si se escribe un mensaje a través de un canal se recepciona por los usuarios de ese canal. 
 
 La URL para acceder a cada sala del chat son:
-http://localhost:3000/chat/all
-http://localhost:3000/chat/1
-http://localhost:3000/chat/2
-http://localhost:3000/chat/3
+- http://localhost:3000/chat/all
+- http://localhost:3000/chat/1
+- http://localhost:3000/chat/2
+- http://localhost:3000/chat/3
